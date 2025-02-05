@@ -15,3 +15,5 @@ console.log(20/2)
 console.log( (3 + 4) * 5 % 3);
 
 console.log(+true)
+
+consol.log(varad sonar);
